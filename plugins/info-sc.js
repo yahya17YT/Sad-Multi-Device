@@ -2,8 +2,8 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let str = `*https://github.com/FahriAdison/Sad-Multi-Device*\nSubscribe Untuk Mengetahui Update Selanjutnya:bit.ly/Papah-Chan\nSilahkan follow github saya dibawah ,Terimakasih`
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/FahriAdison/', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+let str = `*https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg*\nJangan Lupa Subscribe`
+conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄', '/menu']
 ], m)
 }
