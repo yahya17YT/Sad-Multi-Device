@@ -55,11 +55,11 @@ global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm
 global.author = '                「 Yahya17Botz⁩ 」'
 
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://i.ibb.co/pQY6ybs/20220628-120630.png', 'https://i.ibb.co/pQY6ybs/20220628-120630.png',
+  'https://i.ibb.co/pQY6ybs/20220628-120630.png', 'https://i.ibb.co/pQY6ybs/20220628-120630.png',
+  'https://i.ibb.co/pQY6ybs/20220628-120630.png', 'https://i.ibb.co/pQY6ybs/20220628-120630.png',
+  'https://i.ibb.co/pQY6ybs/20220628-120630.png', 'https://i.ibb.co/pQY6ybs/20220628-120630.png',
+  'https://i.ibb.co/pQY6ybs/20220628-120630.png', 'https://i.ibb.co/pQY6ybs/20220628-120630.png'
 ]
 
 global.sgc = 'https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH'
@@ -80,7 +80,7 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 global.nomorbot = '6285731742703'
 global.nomorown = '6285784715971'
 global.namebot = 'Yahya17Botz'
-global.nameown = 'Yagta'
+global.nameown = 'Yahya'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
